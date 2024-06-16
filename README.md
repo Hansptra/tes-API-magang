@@ -1,3 +1,6 @@
+Demo
+ https://hansptra.github.io/tesapimagang.github.io/
+ 
 Repo ini adalah halaman web menampilkan data yang diambil dari API lalu ditampilkan ke halaman website
 web ini hanya menampilkan data saja tidak dapat CRUD
 kemudian untuk bahasa yang dipakai adalah HTML, CSS, javascript.
